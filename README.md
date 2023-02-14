@@ -8,5 +8,6 @@ A disordered jumble of code for analysis variants at the protein-level in bulk u
 2. [Analysis](analysis.md)
 3. [Classification](classification.md)
 4. [Upload to Michelanglo](mike.md)
+5. [Other snippets I am unsure about](other.md)
 
 Of particular interest may be the classification via the enum `Ontology` in [analysis notes](analysis.md)
